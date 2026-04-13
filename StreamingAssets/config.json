@@ -1,7 +1,7 @@
 {
-  "buyText": "Get A Quote",
-  "docText": "Docs",
-  "URL_Documentation": "https://www.keesafety.com/resources/downloads",
+  "buyText": "Specs",
+  "docText": "Get A Quote",
+  "URL_Documentation": "https://www.keesafety.com/contact",
   "URL_Anchor": "https://www.keesafety.com/lifelines-anchors/kee-anchor/kee-anchor",
   "URL_CoverSCS": "https://www.keesafety.com/case-studies/kee-cover-for-bottling-plant",
   "URL_CoverSTS": "https://es.keesafety.com/skylight-fall-protection/kee-cover",
@@ -9,6 +9,7 @@
   "URL_Gate": "https://www.keesafety.com/safety-gates",
   "URL_Guard": "https://www.keesafety.com/roof-railings/kee-guard",
   "URL_GuardC": "https://www.keesafety.com/roof-railings/kee-guard/kee-guard-contractor",
+  "URL_Lite": "https://www.keesafety.com/safety-railings/kee-lite",
   "URL_Hatch": "https://www.keesafety.com/roof-railings/kee-hatch",
   "URL_Platform": "https://www.keesafety.com/platforms-walkways/kee-mobile-platforms",
   "URL_Step": "https://www.keesafety.com/platforms-walkways/kee-walk-mini-stepover",
